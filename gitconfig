@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rilaingfilter@gmail.com
+	name = cheri wang
